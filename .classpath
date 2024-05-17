@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="libraries/twilio/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/jackson-annotations-2.4.3.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/jackson-core-2.4.3.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/jackson-databind-2.4.3.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/jaxb-api-2.2.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/jjwt-0.4.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/joda-time-2.5.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/slf4j-api-1.7.6.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="libraries/twilio/twilio-7.1.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v9.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Aimad/Desktop/apa/gestion hoteliere/Java Project/src/main/webapp/WEB-INF/lib/javax.mail-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aimad/Desktop/apa/gestion hoteliere/Java Project/src/main/webapp/WEB-INF/lib/mysql-connector-j-8.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
